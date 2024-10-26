@@ -8,7 +8,7 @@
  * Author URI: https://www.livemeshthemes.com/
  * License: GPL3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.txt
- * Version: 3.9.1
+ * Version: 3.9.2
  * Text Domain: livemesh-vc-addons
  * Domain Path: languages
  *
@@ -35,7 +35,7 @@ if ( !defined( 'ABSPATH' ) ) {
 // Ensure the free version is deactivated if premium is running
 if ( !function_exists( 'lvca_fs' ) ) {
     // Plugin version
-    define( 'LVCA_VERSION', '3.9.1' );
+    define( 'LVCA_VERSION', '3.9.2' );
     // Plugin Root File
     define( 'LVCA_PLUGIN_FILE', __FILE__ );
     // Plugin Folder Path
