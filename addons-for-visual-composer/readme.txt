@@ -4,8 +4,8 @@ Plugin URI: https://livemeshwp.com/wpbakery-addons
 Contributors: livemesh, freemius
 Tags: wpbakery page builder, wpbakery page builder addons, wpbakery, wpbakery page builder extensions, wpbakery addons, page builder, portfolio, carousel, post, posts, shortcodes, tabs, plugin, page
 Requires at least: 5.8
-Tested up to: 6.6
-Stable Tag: 3.9.2
+Tested up to: 6.8
+Stable Tag: 3.9.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html-func
 
@@ -114,6 +114,9 @@ Pls install and activate the <a href="https://wordpress.org/plugins/portfolio-po
 
 == Changelog ==
 
+
+= 3.9.3 =
+* Freemius SDK update to 2.11.0
 
 = 3.9.2 =
 * Freemius SDK update to 2.8.1
